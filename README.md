@@ -31,6 +31,7 @@ The Power BI dashboard provides real-time and historical insights into Queenslan
 - **Renewable Share**: Proportion of renewable vs. non-renewable energy in the current grid mix.
 
 ## 🚀 Future Improvements
+- Inclusion of rooftop solar generation. This is a large contributor to renewable energy generation in Queensland.
 - Integration of additional weather variables for enhanced model accuracy.
 - Development of hourly forecasts.
 - Expansion of the dashboard to include regional breakdowns and more granular insights.
